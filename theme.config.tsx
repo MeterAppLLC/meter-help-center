@@ -8,7 +8,10 @@ const config: DocsThemeConfig = {
     content: null
   },
   editLink: {
-    text: ''
+    text: null
+  },
+  footer: {
+    text: 'Meter App LLC',
   }
 }
 
