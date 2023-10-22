@@ -8,6 +8,7 @@ import { useRouter } from "next/router";
  * @template T
  * @type {(localesMap: Record<Locale, T>) => T}
  */
+
 export default function useLocalesMap(localesMap) {
   /** @type {NextRouter} */
   const router = useRouter();
