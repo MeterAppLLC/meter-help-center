@@ -12,7 +12,11 @@ const config: DocsThemeConfig = {
   },
   footer: {
     text: 'Meter App LLC',
-  }
+  },
+  i18n: [
+    { locale: 'en-US', text: 'English' },
+    { locale: 'es-ES', text: 'Español' },
+  ]
 }
 
 export default config
