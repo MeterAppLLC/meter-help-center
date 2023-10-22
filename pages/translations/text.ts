@@ -4,24 +4,6 @@
  */
 
 /** @type {Readonly<Record<Locale, string>>} */
-export const languageMap = {
-    "en-US": "English",
-    "es-ES": "Español",
-    "fr-FR": "Français",
-    "pt-BR": "Português Brasileiro",
-    "zh-CN": "简体中文",
-    ja: "日本語",
-    ko: "한국어",
-    ru: "Русский",
-};
-
-/** @type {Readonly<Record<Locale, string>>} */
-export const editTextMap = {
-    "en-US": "Edit this page on GitHub →",
-    "es-ES": "Edite esta página en GitHub →",
-};
-
-/** @type {Readonly<Record<Locale, string>>} */
 export const tableOfContentsTitleMap  = {
     "en-US": "On This Page",
     "es-ES": "En esta página",
