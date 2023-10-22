@@ -20,12 +20,6 @@ export default function useLocalesMap(localesMap: Record<string, string>) {
         throw new Error("Locales map must be an object");
     }
 
-    console.log("localesMap: ", localesMap);
-
-    if (Object.keys(localesMap).length === 0) {
-        return {};
-    }
-
     if (!localesMap.hasOwnProperty(defaultLocale)) {
         throw new Error(
             `Locales map must contain default locale "${defaultLocale}"`
