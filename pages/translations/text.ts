@@ -22,7 +22,7 @@ export const editTextMap = {
 };
 
 /** @type {Readonly<Record<Locale, string>>} */
-export const tableOfContentsTitleMap = {
+export const tableOfContentsTitleMap  = {
     "en-US": "On This Page",
     "es-ES": "En esta página",
 };

@@ -1,8 +1,8 @@
 import React from 'react'
 import {DocsThemeConfig} from 'nextra-theme-docs'
 import useLocalesMap from "./pages/component/use-locales-map";
-import {gitTimestampMap, searchPlaceholderMap, tableOfContentsTitleMap} from "./translations/text";
 import {useRouter} from "next/router";
+import {gitTimestampMap, searchPlaceholderMap, tableOfContentsTitleMap} from "./pages/translations/text";
 
 const config: DocsThemeConfig = {
     logo: <span>Meter App</span>,
