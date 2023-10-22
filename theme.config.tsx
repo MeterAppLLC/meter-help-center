@@ -3,7 +3,6 @@ import {DocsThemeConfig} from 'nextra-theme-docs'
 import useLocalesMap from "./pages/component/use-locales-map";
 import {useRouter} from "next/router";
 import {gitTimestampMap, searchPlaceholderMap, tableOfContentsTitleMap} from "./pages/translations/text";
-
 const config: DocsThemeConfig = {
     logo: <span>Meter App</span>,
     docsRepositoryBase: 'https://github.com/MeterAppLLC/meter-help-center',
