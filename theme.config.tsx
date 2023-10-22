@@ -1,7 +1,7 @@
 import React from 'react'
 import {DocsThemeConfig} from 'nextra-theme-docs'
 import useLocalesMap from "./pages/component/use-locales-map";
-import {editTextMap, gitTimestampMap, searchPlaceholderMap, tableOfContentsTitleMap} from "./translations/text";
+import {gitTimestampMap, searchPlaceholderMap, tableOfContentsTitleMap} from "./translations/text";
 import {useRouter} from "next/router";
 
 const config: DocsThemeConfig = {
@@ -23,8 +23,8 @@ const config: DocsThemeConfig = {
     footer: {
         text: 'Meter App LLC',
     },
-    gitTimestamp({ timestamp }) {
-        const { locale } = useRouter();
+    gitTimestamp({timestamp}) {
+        const {locale} = useRouter();
         const lastUpdatedOn = useLocalesMap(gitTimestampMap);
 
         return (
