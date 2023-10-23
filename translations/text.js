@@ -7,12 +7,6 @@
 export const languageMap = {
   "en-US": "English",
   "es-ES": "Español",
-  "fr-FR": "Français",
-  "pt-BR": "Português Brasileiro",
-  "zh-CN": "简体中文",
-  ja: "日本語",
-  ko: "한국어",
-  ru: "Русский",
 };
 
 /** @type {Readonly<Record<Locale, string>>} */
