@@ -1,8 +1,8 @@
 {
-  "credit_card_payments": "Credit Card Payments",
-  "custom_fares": "Custom Fares",
-  "estimate_trip_cost": "Estimate Trip Cost",
-  "no_ads": "No Ads",
-  "send_receipts": "Send Receipts",
-  "toll_estimate": "Toll Estimate"
+  "credit_card_payments": "Pagos con Tarjeta de Crédito",
+  "custom_fares": "Tarifas Personalizadas",
+  "estimate_trip_cost": "Estimar Costo del Viaje",
+  "no_ads": "Sin Anuncios",
+  "send_receipts": "Enviar Recibos",
+  "toll_estimate": "Estimación de Peajes"
 }
