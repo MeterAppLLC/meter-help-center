@@ -1,3 +1,4 @@
 {
-  "sign-in": "Iniciar sesión"
+  "sign-in": "Iniciar sesión",
+  "stripe-qr-code-payments": "Pagos con código QR de Stripe"
 }
