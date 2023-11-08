@@ -18,6 +18,7 @@ const themeConfig = {
     useNextSeoProps() {
         return {
             titleTemplate: "%s – Meter App Help Center",
+            description: "Search, browse, and learn how to use the Meter App",
         };
     },
     toc: {
