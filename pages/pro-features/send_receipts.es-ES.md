@@ -1,3 +1,10 @@
-# Envía recibos Profesionales por correo electrónico
-Impresiona a tus pasajeros con recibos de su viaje por correo electrónico de manera profesional, que incluyen un mapa del viaje y un detallado desglose de tarifas. Incluso puedes incluir el nombre de tu empresa para elevar tu marca premium
+# ¿Cómo enviar una factura?
+Realiza la siguiente acción
+
+* Pulsa en la esquina superior derecha Terminar Viaje > Terminar Viaje
+* Pulsa, Enviar factura por correo electrónico
+* Enviar Factura, Ingresar  el  correo electrónico
+* Pulsa Enviar
+* El usuario debió recibir la factura  en su  correo electrónico.
+* En iOS puedes compartir la factura por diferentes app de mensajería. ( WhatsApp, etc.) 
 

@@ -1,3 +1,4 @@
-# Estimador automático de peajes después de ingresar el destino
+# Cómo calcular un Peaje?
+Realiza la siguiente acción
 
-Exclusivo solo para Android.
+* Iniciar un viaje > Buscar un destino > (Si hay un peaje en la ruta, el peaje se agrega automáticamente ).
