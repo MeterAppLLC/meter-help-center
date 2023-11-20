@@ -1,0 +1,7 @@
+ # Cómo Invitar a un Usuario a la Flota
+
+Sigue estos pasos:
+
+* Estando dentro de tu flota, haz clic en los tres puntos a tu derecha.
+* En la parte superior, encontrarás el código de unión.
+* Ahora puedes compartir este código con tus conductores.
