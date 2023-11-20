@@ -1,0 +1,8 @@
+# ¿Cómo crear una flota ?
+Realiza la siguiente acción
+
+* Pulsar en soporte>  iniciar sesión, Ingresa tu correo electrónico> ingresa el código  que te enviamos por correo electrónico.
+* Pulsar en  flota > Crea tu flota.
+* Pulsa los tres puntos a tu derecha.
+* Ingresa el nombre de tu flota. 
+* Pulsar guarda el nombre de tu flota en la  esquina  superior  derecha 
