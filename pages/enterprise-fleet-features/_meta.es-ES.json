@@ -1,4 +1,7 @@
 {
-  "sign-in": "Iniciar sesión",
-  "pro": "professional"
+  "create_a_fleet": "Crear una flota",
+  "join_a_fleet": "Unirse a una flota",
+  "invite_user_to_fleet": "Invitar usuario a la flota",
+  "custom_fare_syncing": "Sincronización de tarifas personalizada",
+  "fleet_console": "Consola de flota"
 }

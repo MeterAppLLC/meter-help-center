@@ -1,4 +1,7 @@
 {
+  "create_a_fleet": "Create a fleet",
+  "join_a_fleet": "Join a fleet",
+  "invite_user_to_fleet": "Invite user to fleet",
   "custom_fare_syncing": "Custom fare syncing",
   "fleet_console": "Fleet console"
 }
