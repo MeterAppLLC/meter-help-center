@@ -1,5 +1,5 @@
 # Encuentra tu destino al iniciar un viaje 
-sigue estos pasos:
+Sigue estos pasos:
 
 * Inicia tu viaje.
 * En la parte superior, donde se encuentra la lupa, busca el destino de tu viaje. El sistema te mostrará la ruta con información sobre el tráfico.
