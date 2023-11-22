@@ -1,5 +1,5 @@
 # Find your destination 
-follow these steps:
+Follow these steps:
 
 * Start Ride.
 * At the top, where the magnifying glass is located, search for your trip's destination. The system will display the route with information about traffic.
