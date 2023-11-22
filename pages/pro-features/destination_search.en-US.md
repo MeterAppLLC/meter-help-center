@@ -1,1 +1,6 @@
-# coming soon
+# Find your destination 
+follow these steps:
+
+* Start Ride.
+* At the top, where the magnifying glass is located, search for your trip's destination. The system will display the route with information about traffic.
+* In this link, you will find a video that will guide you on how to complete this process, https://vm.tiktok.com/ZMjoAKRF4/.  
