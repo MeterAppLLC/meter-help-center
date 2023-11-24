@@ -1,8 +1,0 @@
-# How to Join the Fleet?
-
-Follow these steps to join the fleet:
-
-* Each driver must create an account on Meter.
-* Click on "Fleet."
-* In the section that says "Join the Fleet," enter the join code.
-* Now you are inside the fleet.

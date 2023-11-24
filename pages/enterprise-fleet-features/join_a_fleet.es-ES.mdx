@@ -1,0 +1,8 @@
+# ¿Cómo Unirte a una Flota?
+
+Sigue estos pasos para unirte a la flota:
+
+* Cada conductor debe crear una cuenta en Meter.
+* Pulsa en "Flota".
+* En la sección que dice "Únete a la Flota", introduce el código de unión.
+* Ahora estarás dentro de la flota.

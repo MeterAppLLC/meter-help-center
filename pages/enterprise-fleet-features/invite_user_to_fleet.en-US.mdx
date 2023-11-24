@@ -1,0 +1,7 @@
+# How to Invite a Driver to Join the Fleet
+
+Follow these steps:
+
+* Within your fleet, click on the three dots on your right.
+* At the top, you will find the join code.
+* Now, you can share this code with your drivers.
