@@ -1,4 +1,5 @@
 {
   "sign-in": "Iniciar sesión",
-  "stripe-qr-code-payments": "Pagos con código QR de Stripe"
+  "stripe-qr-code-payments": "Pagos con código QR de Stripe",
+  "surge_multiplier": "Surge Multiplier"
 }
