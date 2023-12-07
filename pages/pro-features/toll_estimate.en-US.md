@@ -2,11 +2,11 @@
 Take the following action
 
 * Start a trip > Search for a destination > (If there is a toll on the route, the toll is added automatically.)
-*
-*  # Calculate toll fees
-* When you are computing a route, a custom route, or a route matrix, you may want to take into consideration any toll fees on the route. For select cities, you can compute the estimated toll fee for a route in the appropriate currency.
 
-  # Toll information is available for the following regions:
+ # Calculate toll fees
+When you are computing a route, a custom route, or a route matrix, you may want to take into consideration any toll fees on the route. For select cities, you can compute the estimated toll fee for a route in the appropriate currency.
+
+# Toll information is available for the following regions:
 
 Region Code   | Country/Region | State/City/Toll Road
 --------------|----------------|---------------------
