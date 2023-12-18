@@ -1,6 +1,18 @@
 {
-  "index": "Help Center",
-  "app-features": "App features",
-  "pro-features": "Pro features",
-  "enterprise-fleet-features": "Enterprise fleet features"
+  "index": {
+    "title": "Help Center",
+    "type": "page",
+    "display": "hidden"
+  },
+  "help": {
+    "title": "Help",
+    "type": "page"
+  },
+  "whats-new": {
+    "title": "What's New",
+    "type": "page",
+    "theme": {
+      "sidebar": false
+    }
+  }
 }

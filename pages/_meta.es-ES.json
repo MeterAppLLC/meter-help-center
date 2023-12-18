@@ -1,6 +1,18 @@
 {
-  "index": "Centro de Ayuda",
-  "app-features": "Características de la aplicación",
-  "pro-features": "Pro features",
-  "enterprise-fleet-features": "Enterprise fleet features"
+  "index": {
+    "title": "Centro de Ayuda",
+    "type": "page",
+    "display": "hidden"
+  },
+  "help": {
+    "title": "Ayuda",
+    "type": "page"
+  },
+  "whats-new": {
+    "title": "Qué Hay De Nuevo",
+    "type": "page",
+    "theme": {
+      "sidebar": false
+    }
+  }
 }
