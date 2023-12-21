@@ -9,6 +9,15 @@ const withNextra = require("nextra")({
 });
 
 module.exports = withNextra({
+  async redirects() {
+    return [
+      {
+        source: '/app-features/stripe-qr-code-payments',
+        destination: '/help/app-features/stripe-qr-code-payments',
+        permanent: true,
+      },
+    ]
+  },
   i18n: {
     locales: ["en-US", "es-ES"],
     defaultLocale: "en-US",
