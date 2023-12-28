@@ -5,8 +5,8 @@
   "no_ads": "Sin Anuncios",
   "send_receipts": "Enviar Recibos",
   "toll_estimate": "Estimación de Peajes",
-  "custom_fees": "Custom Fees",
-  "navigation": "Navigation",
-  "restore_purchase_ios": "Restore Purchase",
-  "remove_driver_from_fleet": "Remove Driver from Fleet"
+  "custom_fees": "Tarifas Extras",
+  "navigation": "Navegación",
+  "restore_purchase_ios": "Restaurar compra",
+  "remove_driver_from_fleet": "Eliminar conductor de la flota"
 }
