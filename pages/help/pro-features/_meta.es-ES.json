@@ -7,6 +7,5 @@
   "toll_estimate": "Estimación de Peajes",
   "custom_fees": "Tarifas Extras",
   "navigation": "Navegación",
-  "restore_purchase_ios": "Restaurar compra",
-  "remove_driver_from_fleet": "Eliminar conductor de la flota"
+  "restore_purchase_ios": "Restaurar compra"
 }
