@@ -22,4 +22,14 @@ module.exports = withNextra({
     locales: ["en-US", "es-ES"],
     defaultLocale: "en-US",
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'www.meterapp.co',
+        port: '',
+        pathname: '/**',
+      },
+    ],
+  },
 });
