@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.help.meterapp.co/static/sitemap.xml
+Sitemap: https://help.meterapp.co/static/sitemap.xml
