@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://help.meterapp.co/help/app-features</loc>
+        <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://help.meterapp.co/es-ES/help/app-features"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.help.meterapp.co/en-EN/help/app-features"/>
+        <lastmod>2024-01-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://help.meterapp.co</loc>
+        <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://help.meterapp.co/es-ES"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.help.meterapp.co/en-EN"/>
+        <lastmod>2024-01-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>https://help.meterapp.co/help/pro-features</loc>
+        <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://help.meterapp.co/es-ES/help/pro-features"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.help.meterapp.co/en-EN/help/pro-features"/>
+        <lastmod>2024-01-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://help.meterapp.co/help/enterprise-fleet-features</loc>
+        <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://help.meterapp.co/es-ES/help/enterprise-fleet-features"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.help.meterapp.co/en-EN/help/enterprise-fleet-features"/>
+        <lastmod>2024-01-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://help.meterapp.co/help/pro-features/navigation</loc>
+        <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://help.meterapp.co/es-ES/help/pro-features/navigation"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.help.meterapp.co/en-EN/help/pro-features/navigation"/>
+        <lastmod>2024-01-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
