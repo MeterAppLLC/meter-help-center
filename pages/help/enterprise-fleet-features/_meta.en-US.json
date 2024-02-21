@@ -4,5 +4,7 @@
   "invite_user_to_fleet": "Invite user to fleet",
   "custom_fare_syncing": "Custom fare syncing",
   "fleet_console": "Fleet console",
-  "remove_driver_from_fleet": "Remove Driver from Fleet"
+  "remove_driver_from_fleet": "Remove Driver from Fleet",
+  "fleet_roles": "Fleet roles",
+  "fleet_documents": "Fleet documents",
 }

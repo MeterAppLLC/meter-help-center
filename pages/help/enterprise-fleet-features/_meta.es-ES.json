@@ -4,5 +4,7 @@
   "invite_user_to_fleet": "Invitar usuario a la flota",
   "custom_fare_syncing": "Sincronización de tarifas personalizada",
   "fleet_console": "Consola de flota",
-  "remove_driver_from_fleet": "Eliminar conductor de la flota"
+  "remove_driver_from_fleet": "Eliminar conductor de la flota",
+  "fleet_roles": "Fleet roles",
+  "fleet_documents": "Fleet documents"
 }
