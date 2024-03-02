@@ -5,6 +5,7 @@
   "custom_fare_syncing": "Sincronización de tarifas personalizada",
   "fleet_console": "Consola de flota",
   "remove_driver_from_fleet": "Eliminar conductor de la flota",
-  "fleet_roles": "Fleet roles",
-  "fleet_documents": "Fleet documents"
+  "fleet_roles": "Roles de flota",
+  "fleet_documents": "Documentos de la flota",
+  "dispatch_driver": "Despachar un conductor"
 }
