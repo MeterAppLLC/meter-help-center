@@ -3,5 +3,6 @@
   "stripe-qr-code-payments": "Pagos con código QR de Stripe",
   "surge_multiplier": "Tarifa Dinamica",
   "tax": "Añade impuesto",
-  "tips": "Propina"
+  "tips": "Propina",
+  "available-languages": "Available Languages"
 }
