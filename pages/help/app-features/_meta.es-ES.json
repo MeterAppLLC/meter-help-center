@@ -4,5 +4,6 @@
   "surge_multiplier": "Tarifa Dinamica",
   "tax": "Añade impuesto",
   "tips": "Propina",
-  "available-languages": "Available Languages"
+  "available-languages": "Available Languages",
+  "change-currency": "Cambiar Moneda"
 }
