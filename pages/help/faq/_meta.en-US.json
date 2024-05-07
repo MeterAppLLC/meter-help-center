@@ -1,6 +1,8 @@
 {
   "delete_account": "How do I delete my account?",
-  "custom_fares": "¿Cómo cambio mi dirección de correo electrónico?",
+  "custom_fares": "How do I create custom fares?",
   "set_phone_number": "How do I set my phone number?",
-  "add_a_driver": "How do I add a driver?"
+  "add_a_driver": "How do I add a driver?",
+  "how_to_change_email": "How do I change my email address?",
+  "trouble_receiving_receipt_email": "I'm having trouble receiving my receipt emails",
 }

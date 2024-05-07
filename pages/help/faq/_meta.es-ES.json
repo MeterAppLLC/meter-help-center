@@ -2,5 +2,7 @@
   "delete_account": " ¿Cómo elimino mi cuenta?",
   "custom_fares": " ¿Cómo cambio mi dirección de correo electrónico?",
   "set_phone_number": " ¿Cómo configuro mi número de teléfono?",
-  "add_a_driver": " ¿Cómo agrego un conductor?"
+  "add_a_driver": " ¿Cómo agrego un conductor?",
+  "how_to_change_email": "How do I change my email address?",
+  "trouble_receiving_receipt_email": "I'm having trouble receiving my receipt emails"
 }
