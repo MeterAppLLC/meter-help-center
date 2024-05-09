@@ -4,5 +4,8 @@
   "set_phone_number": " ¿Cómo configuro mi número de teléfono?",
   "add_a_driver": " ¿Cómo agrego un conductor?",
   "how_to_change_email": "¿Cómo cambio mi dirección de correo electrónico?",
-  "trouble_receiving_receipt_email": "Estoy teniendo problemas para recibir los recibos por correo electrónico"
+  "trouble_receiving_receipt_email": "Estoy teniendo problemas para recibir los recibos por correo electrónico",
+  "cancel_subscription_website": "How do I cancel my subscription on the website?",
+  "cancel_subscription_android": "How do I cancel my subscription on Android?",
+  "cancel_subscription_ios": "How do I cancel my subscription on iOS?"
 }
