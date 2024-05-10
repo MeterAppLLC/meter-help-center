@@ -7,5 +7,7 @@
   "trouble_receiving_receipt_email": "Estoy teniendo problemas para recibir los recibos por correo electrónico",
   "cancel_subscription_website": "How do I cancel my subscription on the website?",
   "cancel_subscription_android": "How do I cancel my subscription on Android?",
-  "cancel_subscription_ios": "How do I cancel my subscription on iOS?"
+  "cancel_subscription_ios": "How do I cancel my subscription on iOS?",
+  "cancel_fleet_subscription": "How do I cancel my fleet subscription?",
+  "how_does_stripe_work": "How does Stripe work?"
 }
