@@ -1,8 +1,8 @@
 # How to calculate a Toll?
 
-Take the following action
+Take the following action.
 
-* Start a trip > Search for a destination > (If there is a toll on the route, the toll is added automatically.)
+* Start a trip > Search for a destination > (If there is a toll on the route, the toll is added automatically).
 
 **Calculate toll fees**
 When you are computing a route, a custom route, or a route matrix, you may want to take into consideration any toll fees
