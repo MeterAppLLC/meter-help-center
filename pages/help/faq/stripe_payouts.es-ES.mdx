@@ -1,0 +1,28 @@
+---
+title: ¿Cómo es el Programa de Pagos de Stripe?
+description: Aprende sobre el programa de pagos de Stripe y cómo puedes gestionar tus pagos.
+---
+
+## ¿Cómo es el Programa de Pagos de Stripe?
+
+Tu programa de pagos se refiere a la frecuencia con la que Stripe envía dinero a tu cuenta bancaria.
+
+En los países compatibles, tu programa de pagos predeterminado es **automático diario**. Puedes cambiar esto en el Panel de Control a **automático semanal**, **automático mensual** o **pagos manuales**. Al seleccionar un programa semanal o mensual, puedes especificar el día de la semana o del mes en que deseas que los pagos lleguen a tu cuenta bancaria.
+
+### Programas de Pagos Semanales y Mensuales
+
+- Para los programas de pagos mensuales, si el día de llegada del pago que has seleccionado está más allá del último día de un mes en particular, el pago se ajusta automáticamente al último día de ese mes.
+- Para ambos programas, semanales y mensuales, si el día de llegada del pago seleccionado cae en un día no laborable, el día de llegada del pago se traslada al siguiente día laborable.
+
+Cuando seleccionas un programa de pagos, no cambia el tiempo que tarda tu saldo pendiente en estar disponible. Sin embargo, te permite controlar cuándo ocurren tus pagos. Por ejemplo, si tu cuenta opera con un programa de pagos diario y una velocidad de pago de 3 días hábiles, Stripe paga los fondos diariamente de las transacciones capturadas 3 días hábiles antes.
+
+### Restricciones Específicas por País
+
+Algunos países tienen restricciones en los programas de pagos:
+
+- **Brasil e India**: Los pagos son siempre automáticos y diarios.
+- **Japón**: Los pagos diarios no están disponibles. El programa de pagos predeterminado es semanal (viernes).
+
+### Tiempo Inicial de Pago
+
+Cuando comienzas a procesar pagos en vivo, Stripe típicamente programa tu pago inicial para 7-14 días después de que recibas con éxito tu primer pago. Tu primer pago puede tardar más, dependiendo del nivel de riesgo de tu industria y del país de operación. Los pagos posteriores siguen el programa de pagos de tu cuenta.
