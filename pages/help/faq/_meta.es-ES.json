@@ -13,5 +13,6 @@
   "how_to_add_profile_photo": "¿Cómo agrego una foto de perfil?",
   "how_to_change_from_miles_to_kms": "¿Cómo cambio de millas a kilómetros?",
   "how_to_change_language": "¿Cómo cambio el idioma?",
-  "how_to_join_a_different_fleet": "¿Cómo me uno a una flota diferente?"
+  "how_to_join_a_different_fleet": "¿Cómo me uno a una flota diferente?",
+  "stripe_payouts": "¿Cómo es el calendario de pagos de Stripe?"
 }
